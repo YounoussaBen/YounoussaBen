@@ -10,11 +10,11 @@
 
 
 	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+  <img align="right" alt="" src="./mdImages/programming.svg" width=300px>
 </picture>
 
 <br>
@@ -150,7 +150,7 @@ Thank you for visiting my profile, and I hope to hear from you soon!
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="./mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
