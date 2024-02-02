@@ -189,7 +189,7 @@ Thank you for visiting my profile, and I hope to hear from you soon!
 
 <div align='center'>
 
-## <b>😊✨</b>
+## <b>👨‍💻 Happy coding!</b>
 
 </div>
 <br>
