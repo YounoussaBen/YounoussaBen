@@ -64,7 +64,7 @@ Thank you for visiting my profile, and I hope to hear from you soon!
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%x315f92.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 
