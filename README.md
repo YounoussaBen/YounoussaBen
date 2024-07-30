@@ -96,9 +96,12 @@ Thank you for visiting my profile, and I hope to hear from you soon!
 - **Cloud Hosting**:
 
 
-    ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-    ![IIS](https://img.shields.io/badge/IIS-%230D76A8.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-%230D76A8.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23627EEA.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 
     
