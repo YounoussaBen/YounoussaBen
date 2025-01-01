@@ -22,11 +22,9 @@
 
 <br>
 
-Hi there, and welcome to my GitHub profile! My name is Younoussa Ben Abdourhaman, and I am a full-stack web developer with a passion for creating innovative and user-friendly web applications.
+Hi there, and welcome to my GitHub profile! My name is Younoussa Ben Abdourhaman, and I am a software engineer with a passion for creating innovative and user-friendly web applications, mobile applications and training AI models.
 
-I have a Bachelor’s degree in Computer Science, where I learned the fundamentals of software development and gained exposure to various programming languages and paradigms.
-
-As a full-stack developer, I have experience in both front-end and back-end development, using a variety of frameworks and tools such as Python, JavaScript, C#, Django, Flask, React, SQL, and more.
+I have a Bachelor’s degree in Computer Science, and have experience in using a variety of frameworks and tools such as Python, JavaScript, C#, Django, Flask, React, SQL, and more.
 
 My portfolio on GitHub showcases my diverse and rich set of skills and projects, ranging from web development, machine learning, data analysis, and more. I am always eager to learn new technologies and techniques that will enhance my abilities and help me solve real-world problems.
 
